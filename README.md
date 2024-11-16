@@ -31,4 +31,3 @@ ACTIVITY_PAGINATION_SIZE=
 
 ---
 
-Being thrown together by @jh3y :heart:
