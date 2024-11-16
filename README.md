@@ -1,6 +1,4 @@
-# jhey.dev
-
-The source for the jhey.dev rebuild.
+# My upcoming portfolio site
 
 - Astro
 - Sanity CMS
